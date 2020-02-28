@@ -1,4 +1,4 @@
-import requested
+import requests
 import banner
 
  print(r"************************************** ")
