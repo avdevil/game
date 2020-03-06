@@ -6,16 +6,15 @@ import urllib.request
 
 def banner():
 
- print(r"************************************** ")
- print(r"*******#### coded by avhacker #******* ")
- print(r"************************************** ") 
+ print(r"***************************************** ")
+ print(r"*******#### coded by avhacker ####******* ")
+ print(r"***************************************** ") 
  
 banner()
 
 
 import time
 import random
-import pyautogui
 
 def move_mouse(how_long_in_seconds):
     start_time = time.time()
